@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "905496348111",
+    "project_id": "hris-7a245",
+    "storage_bucket": "hris-7a245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905496348111:android:7fb16ef65019d303d93eba",
+        "android_client_info": {
+          "package_name": "com.yig.mi.hris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905496348111-3ai3hjkoq0st6fsn9cql2klpdh36sdav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yig.mi.hris",
+            "certificate_hash": "77a941d1dae63f4df2e7982d41bfb25775be7132"
+          }
+        },
+        {
+          "client_id": "905496348111-avmrrm2fasb55k8obgak1qp5kmvk05st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASL3IhLam_r9hYs12YRmbo14oGr-DXywE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905496348111-avmrrm2fasb55k8obgak1qp5kmvk05st.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905496348111-h45h9lc133h8b1tgckniq315eogs69ae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yig.mi.hris"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
